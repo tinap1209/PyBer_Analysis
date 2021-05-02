@@ -12,3 +12,5 @@ It is very very evident from the results that The number of rides, drivers, fare
 ## Summary
 In my recommendation to the CEO, I would suggest that he would invest more into research and development to customize rides for the urban population. As we can see and understand that the suburban areas are slowly catching up they are however a long way to go. 
 When we look at the rural rides and fares, it is very very helpful for market share and establishes a market presence without completely ignoring that market. 
+
+Contact: Ptinasingh@gmail.com
